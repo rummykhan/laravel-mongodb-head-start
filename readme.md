@@ -1,6 +1,6 @@
 # Laravel MongoDB Head Start
 
-## Laravel 5.2 
+## [Laravel 5.2](https://packagist.org/packages/laravel/laravel)
 ## MongoDB Library [Jens Segers](https://github.com/jenssegers/laravel-mongodb)
 
 MongoDB Service Provider Added in config/app.php
