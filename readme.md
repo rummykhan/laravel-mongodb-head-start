@@ -13,8 +13,7 @@
 ### ToDo
 * Add your .env file with db configuration
 * Goto your folder from cmd
-
-`php artisan make:auth`
+* `php artisan make:auth`
 
 
 
