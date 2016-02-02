@@ -1,24 +1,19 @@
-## Laravel MongoDB Head Start
+# Laravel MongoDB Head Start
 
-# Laravel 5.2 
-# MongoDB Library [Jens Segers](https://github.com/jenssegers/laravel-mongodb)
+## Laravel 5.2 
+## MongoDB Library [Jens Segers](https://github.com/jenssegers/laravel-mongodb)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+MongoDB Service Provider Added in config/app.php
+MongoDB Config Added In config/database.php
+App\User.php inherited from all the Eloquent(MongoDB Model) and all the interfaces necessary
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Official Documentation
+## ToDo
+Add your .env file with db configuration
+Goto your folder from cmd
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+php artisan make:auth
 
-## Contributing
+and you are good to go
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Cheers!
