@@ -10,6 +10,7 @@ App\User.php inherited from all the Eloquent(MongoDB Model) and all the interfac
 
 ## ToDo
 Add your .env file with db configuration
+
 Goto your folder from cmd
 
 php artisan make:auth
